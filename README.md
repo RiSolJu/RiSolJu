@@ -16,10 +16,7 @@ I enjoy coding, reading books, watching animes and playing video games.
 <a href="https://discord.bio/p/risolju">
   <img alt="Discordbio" src="https://images-eu.ssl-images-amazon.com/images/I/51lpm9SpsJL.png" width=50px>
 </a>
-<a href="https://discord.bio/p/risolju">
-  <img alt="Discordbio" src="https://images-eu.ssl-images-amazon.com/images/I/51lpm9SpsJL.png" width=50px>
-</a>
-<img alt="Discordbio" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" width=50px> : lespinassequentin89@gmail.com 
+<img alt="Discordbio" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" width=50px> : lespinassequentin89@gmail.com </a>
 
 
 Mail
