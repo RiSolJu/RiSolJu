@@ -1,6 +1,7 @@
 ### About me :
 
 I'm a French student living in Lyon, i'm going at the university of Lyon 1.
+</p>
 I enjoy coding, reading books, watching animes and playing video games.
 
 ### Contacts & Other :
