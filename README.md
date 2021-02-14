@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: nothing
 
+https://img2.freepng.fr/20180509/kfe/kisspng-turney-town-shell-logo-internet-online-and-offline-5af3203e0802e9.2783562215258829420328.jpg
