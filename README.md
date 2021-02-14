@@ -9,7 +9,7 @@
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: nothing
 <a href="https://risolju.github.io/Website/">
-  <img alt="WebSite" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/GNOME_Web_logo.png">
+  <img alt="WebSite" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/GNOME_Web_logo.png" width=50px>
 </a>
 
 Contacts :
