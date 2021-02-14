@@ -1,15 +1,16 @@
-### Hey,
+### About me :
 
-- I’m currently working on improving myself
-- I’m currently learning .
-- I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: nothing
-- 😄 Pronouns: nothing
-- ⚡ Fun fact: nothing
+I'm a French student living in Lyon, i'm going at the university of Lyon 1.
+I enjoy coding, reading books, watching animes and playing video games.
+
+### Contacts & Other :
+
 <a href="https://risolju.github.io/Website/">
   <img alt="WebSite" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/GNOME_Web_logo.png" width=50px>
 </a>
 
-Contacts :
+Animelist
+Discord
+Mail
+
+
