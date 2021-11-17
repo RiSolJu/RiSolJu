@@ -25,9 +25,7 @@ I enjoy coding, reading book end playing video games.
 <a href="https://anilist.co/user/RiSolJu/">
   <img alt="Anilist" src="https://anilist.co/img/icons/android-chrome-512x512.png" width=50px>
 </a>
-<a href="https://discord.bio/p/risolju">
-  <img alt="Discordbio" src="https://images-eu.ssl-images-amazon.com/images/I/51lpm9SpsJL.png" width=50px>
-</a>
+
 
 ### Mail : lespinassequentin89@gmail.com 
 
