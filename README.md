@@ -1,8 +1,8 @@
 ## About me :
 
-I'm a French student living in Lyon, i'm going at the university of Lyon 1.
+I'm a French student living in Lyon, i'm studying at the university of Lyon 1.
 <br>
-I enjoy coding, reading books, watching animes and playing video games.
+I enjoy coding, reading book end playing video games.
 
 
 ## Languages & Tools :
