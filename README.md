@@ -22,11 +22,6 @@ I enjoy coding, reading book end playing video games.
   <img alt="WebSite" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/GNOME_Web_logo.png" width=50px>
 </a>
 
-<a href="https://anilist.co/user/RiSolJu/">
-  <img alt="Anilist" src="https://anilist.co/img/icons/android-chrome-512x512.png" width=50px>
-</a>
-
-
 ### Mail : lespinassequentin89@gmail.com 
 
 
